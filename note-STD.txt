@@ -1,1 +1,2 @@
 Conflict resolved by STD: keeping both changes
+"Modified by STD in Visual Studio"
